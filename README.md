@@ -11,7 +11,7 @@
 ## 👨‍💻 About me
 I'm a Senior Software Engineer at Truminds with 4+ years building full-stack products. I'm now moving into **AI Forward Deployed Engineering**: sitting close to the customer, turning messy real-world problems into AI systems that work in production, especially in **enterprise and regulated** settings.
 
-- 🎓 **IIT Delhi CEP, Advanced Certificate in AI Forward Deployed Engineering** (Batch 1). Capstone in progress, due Dec 2026.
+- 🎓 **IIT Delhi CEP, Advanced Certificate in AI Forward Deployed Engineering** 2 Capstone in progress, due April 2027.
 - 🧪 Tested internal **agentic AI systems** at Truminds with **promptfoo** evals and **Playwright** browser automation, then reported the gaps to the engineering team.
 - 🎯 MCA in AI/ML (Amity, 2023).
 
