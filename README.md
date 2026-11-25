@@ -13,7 +13,7 @@ I'm a Senior Software Engineer at Truminds with 4+ years building full-stack pro
 
 - 🎓 **IIT Delhi CEP, Advanced Certificate in AI Forward Deployed Engineering** (Batch 1). Capstone in progress, due Dec 2026.
 - 🧪 Tested internal **agentic AI systems** at Truminds with **promptfoo** evals and **Playwright** browser automation, then reported the gaps to the engineering team.
-- 🎯 MS in AI/ML (Amity, 2023).
+- 🎯 MCA in AI/ML (Amity, 2023).
 
 ## 🛠️ Toolbox
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
@@ -36,7 +36,7 @@ I'm a Senior Software Engineer at Truminds with 4+ years building full-stack pro
 - Delivered a production website end to end, from requirements to deploy, as a Next.js and TypeScript build with a Tailwind design system.
 - Next.js · Tailwind · TypeScript
 
-**Intranet-poc** · private proof of concept
+**Intranet** · private client project
 - Built a lightweight intranet portal that centralizes internal content and workflows, with zero-ops SQLite storage.
 - Next.js · SQLite
 
