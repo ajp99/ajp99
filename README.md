@@ -24,13 +24,40 @@ I'm a Senior Software Engineer at Truminds with 4+ years building full-stack pro
 **🔎 Currently looking for:** AI Forward Deployed Engineer roles with teams bringing AI into enterprise and regulated environments.
 
 ## 🛠️ Toolbox
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+
+**🧠 AI & LLMs**<br/>
+![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![DeepSeek API](https://img.shields.io/badge/-DeepSeek%20API-4D6BFE?style=flat-square)
+![PydanticAI](https://img.shields.io/badge/-PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+**🧪 Evals & testing**<br/>
+![promptfoo](https://img.shields.io/badge/-promptfoo-313244?style=flat-square)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+**⚙️ Backend & data**<br/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![pg_search](https://img.shields.io/badge/-pg__search-1E1E2E?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**🎨 Frontend**<br/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**☁️ Cloud & delivery**<br/>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 🚀 Featured work
 **webdev-pipeline-engine** · AI-driven delivery pipeline with a human in the loop
