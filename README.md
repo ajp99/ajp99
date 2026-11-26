@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ayush+%F0%9F%91%8B;Senior+Software+Engineer+%E2%86%92+AI+Forward+Deployed+Engineer;Shipping+AI+for+enterprise+%26+regulated+teams" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ayush+%F0%9F%91%8B;Senior+Software+Engineer+%E2%86%92+AI+Forward+Deployed+Engineer;Shipping+AI+for+enterprise+%26+regulated+teams" alt="typing" />
 
 ![Open to AI FDE roles](https://img.shields.io/badge/Open%20to-AI%20FDE%20roles-9ece6a?style=for-the-badge&labelColor=1a1b27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ap191996-7aa2f7?style=for-the-badge&logo=linkedin&labelColor=1a1b27)](https://www.linkedin.com/in/ap191996/)
